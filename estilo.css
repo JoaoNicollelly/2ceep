@@ -30,3 +30,17 @@ body{
 	width:424px;
 	height: 375px;
 }
+#conteudo-rodape{
+	width: 1274px;
+	height: auto;
+	float: left;
+	padding: 1px;
+	margin:1px;
+}
+#video-rodape{
+	width: 600px;
+	height: 285px;
+	padding: 1px;
+	margin: 1px;
+	float: left;
+}
